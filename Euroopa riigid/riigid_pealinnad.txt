@@ -1,9 +1,9 @@
-Albaania-Tirana
+ï»¿Albaania-Tirana
 Andorra-Andorra_la_Vella
 Armeenia-Jerevan
-Aserbaidþaan-Bakuu
+AserbaidÅ¾aan-Bakuu
 Austria-Viin
-Belgia-Brüssel
+Belgia-BrÃ¼ssel
 Bosnia_ja_Hertsegoviina-Sarajevo
 Bulgaaria-Sofia
 Eesti-Tallinn
@@ -15,11 +15,11 @@ Island-Reykjavik
 Itaalia-Rooma
 Kasahstan-Astana
 Kreeka-Ateena
-Küpros-Nikosia
+KÃ¼pros-Nikosia
 Leedu-Vilnius
 Liechtenstein-Vaduz
 Luksemburg-Luxembourg
-Läti-Riia
+LÃ¤ti-Riia
 Madalmaad-Amsterdam
 Makedoonia-Skopje
 Malta-Valletta
@@ -39,10 +39,10 @@ Slovakkia-Bratislava
 Sloveenia-Ljubljana
 Soome-Helsingi
 Suurbritannia-London
-Ðveits-Bern
+Å veits-Bern
 Taani-Kopenhaagen
-Tðehhi-Praha
-Türgi-Ankara
+TÅ¡ehhi-Praha
+TÃ¼rgi-Ankara
 Ukraina-Kiiev
 Ungari-Budapest
 Valgevene-Minsk
